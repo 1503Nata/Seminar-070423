@@ -11,4 +11,3 @@ Number = Number//10
 Number2 = Number%10
 Number = Number//10
 print("Сумма всех цифр заданного числа равна :", Number + Number1 + Number2)
-
